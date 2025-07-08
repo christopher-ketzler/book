@@ -1,4 +1,5 @@
 {
+  "welcomeFile": "bookui",
   "routes": [
     {
       "source": "^/-/cds/.*",

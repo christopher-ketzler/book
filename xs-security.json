@@ -1,4 +1,5 @@
 {
+  "tenant-mode":"shared",
   "scopes": [
     {
       "name": "$XSAPPNAME.mtcallback",
@@ -9,5 +10,8 @@
     }
   ],
   "attributes": [],
-  "role-templates": []
+  "role-templates": [],
+  "oauth2-configuration": {
+    "redirect-uris": ["https://*.cfapps.us10-001.hana.ondemand.com/**"]
+  }
 }

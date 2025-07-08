@@ -12,7 +12,7 @@
     {
       "source": "^(.*)$",
       "target": "$1",
-      "service": "html5-apps-repo-rt",
+      "service": "book-html5-runtime",
       "authenticationType": "xsuaa"
     }
   ]
